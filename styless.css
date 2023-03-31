@@ -1,0 +1,62 @@
+/* Style untuk header */
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav li:last-child {
+	margin-right: 0;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Style untuk main content */
+main {
+	margin: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+h2 {
+	border-bottom: 2px solid #333;
+	padding-bottom: 10px;
+}
+
+/* Style untuk footer */
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+.kontak{margin: 0.5rem 0;
+    display:block;
+
+}  .kontak:visited {
+    color: black;
+  }
+  
+  .kontak:hover {
+    color: brown;
+  }
+  
+  .kontak:active {
+    color: brown;
+  }
