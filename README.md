@@ -74,5 +74,3 @@ Welcome to my GitHub profile! Here you can discover my background, interests, an
 
 Thank you for visiting my profile!  
 Feel free to explore my repositories, connect, or collaborate on projects. Let’s innovate and grow together!
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/47456697/266fbd8b-248a-4f1c-9bca-2321d44c740d/ROFIF-AKHDAN-FALAH_CV.pdf
