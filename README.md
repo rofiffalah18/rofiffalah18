@@ -70,7 +70,6 @@ Welcome to my GitHub profile! Here you can discover my background, interests, an
 - Email: rofifakhdan@apps.ipb.ac.id
 - LinkedIn: [Rofif Akhdan Falah](https://www.linkedin.com/in/rofif-akhdan-falah-095933323/)
 - GitHub: [rofiffalah18](https://github.com/rofiffalah18)
-- WhatsApp: 085886728644
 
 Thank you for visiting my profile!  
 Feel free to explore my repositories, connect, or collaborate on projects. Let’s innovate and grow together!
