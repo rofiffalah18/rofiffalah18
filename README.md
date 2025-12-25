@@ -82,7 +82,8 @@ Saya terbiasa mengerjakan proses **perancangan, integrasi, dan pengujian sistem 
 
 ## 📫 Kontak & Jejaring
 - 💼 LinkedIn: [linkedin.com/in/rofif-akhdan-falah](https://www.linkedin.com/in/rofif-akhdan-falah-095933323/)  
-- 🌐 GitHub: [github.com/rofiffalah18](https://github.com/rofiffalah18)  
+- 🌐 GitHub: [github.com/rofiffalah18](https://github.com/rofiffalah18)
+- [![Instagram](https://img.shields.io/badge/Instagram-@rofiffalah18-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rofiffalah18)
 
 ---
 
