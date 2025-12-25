@@ -1,75 +1,97 @@
-# 👋 Hi, I'm Rofif Akhdan Falah!
+# 👋 Halo, saya Rofif Akhdan Falah
 
-Welcome to my GitHub profile! Here you can discover my background, interests, and projects that reflect my passion for technology and learning.
+![Profile Views](https://komarev.com/ghpvc/?username=rofiffalah18&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/rofiffalah18?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/rofiffalah18?label=Stars&style=flat)
 
-## 🌱 About Me
+🎓 Mahasiswa Fisika — **Institut Pertanian Bogor (IPB University)**  
+🤖 Ketua Tim Riset Ground Robotik — **IPB Robotik Club**  
+🌐 Robotika | Embedded System | Web Development  
 
-- 🎓 **Physics undergraduate student** at Institut Pertanian Bogor (IPB).
-- ⚡ Enthusiast in **robotics, microcontrollers, and electrical systems**.
-- 🛠️ Experienced in handling wiring, troubleshooting, and integration of electronic components such as motor drivers, sensors, actuators, and power supplies.
-- 💡 Skilled in designing wiring diagrams and implementing control systems using Arduino, ESP32, and other microcontrollers.
-- 🤝 Team player with strong coordination skills across electrical and programming divisions.
+---
 
-## 🚀 Skills & Competencies
+## 🚀 Tentang Saya
+Saya memiliki ketertarikan dan pengalaman di bidang **robotika dan sistem kelistrikan**, khususnya pada pengembangan **robot darat berbasis mikrokontroler** untuk perlombaan seperti **Transporter, Maze Bot, Line Follower**, dan kategori robot otonom lainnya.
 
-| Area                     | Details                                                         |
-|--------------------------|-----------------------------------------------------------------|
-| Programming & IoT        | Arduino, ESP32, Microcontrollers, IoT project development       |
-| Web & IT                 | Web design, website management, responsive web (FreeCodeCamp)   |
-| Electronics              | Wiring, troubleshooting, PC assembling, sensor integration      |
-| Design & Multimedia      | Video editing (Wondershare Filmora), Photoshop CS, Graphic Design|
-| Networking               | Internet and networking fundamentals                            |
-| Soft Skills              | Leadership, teamwork, responsibility, attention to detail       |
+Saya terbiasa mengerjakan proses **perancangan, integrasi, dan pengujian sistem robot**, mulai dari mekanik, elektrik, hingga pemrograman. Selain robotika, saya juga aktif dalam **pengembangan dan pengelolaan website**, dengan fokus pada desain yang responsif, fungsional, dan mudah digunakan.
 
-## 📚 Education
+---
 
-- **Institut Pertanian Bogor (IPB)**  
-  Bachelor of Science (Physics), Aug 2024 – Present
+## 🧠 Bidang Minat
+- Robot Darat Otonom  
+- Embedded System & IoT  
+- Sistem Kontrol  
+- Strategi dan Riset Robotika Kompetisi  
+- Web Development & UI/UX  
 
-- **SMA PLUS PGRI CIBINONG**  
-  Senior High School, Aug 2021 – Jul 2024  
-  - Wakil Ketua Studentday Elektro  
-  - HUMAS Math Club  
-  - KTI Terbaik 2022-2023  
-  - Divisi Logistik Lorong Budaya  
-  - Siswa terbaik dan berprestasi
+---
 
-## 🏆 Achievements
+## 🛠️ Tech Stack
 
-- Karya Tulis Ilmiah Terbaik (2022)
-- Olimpiade Sekolah PGRI Nasional (2023): 1st place in Mathematics
-- Responsive Web Design Certificate (FreeCodeCamp, 2023)
+### 🤖 Robotika & Embedded System
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-## 🛠️ Projects & Experience
+- Sensor & Aktuator  
+- Motor Driver & Power Management  
+- Wiring Diagram & Troubleshooting  
 
-- **Arduino Projects**  
-  - Kipas Otomatis (2021): Team Leader  
-  - Smart Room (2022): Team Leader  
-  - Kolam Otomasi & Parking Otomatis (2023): Team Leader
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **Web & IT**  
-  - Website Seputar Jambi (2024): Web Design  
-  - Cerebro Historia: Webmaster, website management, and content creation
+- Responsive Web Design  
+- Manajemen & Optimasi Website  
 
-- **Organizational Roles**  
-  - Wakil Ketua Studentday Elektro: Oversaw project ideation and execution  
-  - Ketua IT Development, Cerebro Historia: Led IT initiatives, website, and social media  
-  - Penulis Buku Fisika Dasar UNJ: Authored and summarized physics chapters  
-  - Walking Tour Kota Tua (2025): IT division, live streaming, and registration management
+### 🔧 Tools & Lainnya
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## ✨ Fun Facts
+---
 
-- I enjoy exploring new technologies, especially in robotics and web development.
-- I believe that *adaptability and continuous learning* are the keys to success.
-- Inspired by:  
-  > "Bukan yang paling kuat atau paling cerdas yang bertahan, melainkan yang paling mampu beradaptasi."  
-  > — Charles Darwin
+## 🤖 Pengalaman Robotika
+- Memimpin riset dan pengembangan **robot darat** untuk berbagai kompetisi  
+- Menentukan konsep, arsitektur teknis, dan strategi robot  
+- Mengoordinasikan integrasi **mekanik, elektrik, dan pemrograman**  
+- Mengawasi proses pengujian, debugging, dan optimasi performa  
+- Mengelola pembagian tugas dan progres tim riset  
 
-## 📫 Contact Me
+---
 
-- Email: rofifakhdan@apps.ipb.ac.id
-- LinkedIn: [Rofif Akhdan Falah](https://www.linkedin.com/in/rofif-akhdan-falah-095933323/)
-- GitHub: [rofiffalah18](https://github.com/rofiffalah18)
+## 🌐 Pengalaman Web Development
+- Mengembangkan website dari tahap perencanaan hingga implementasi  
+- Merancang desain **UI/UX** yang responsif dan user-friendly  
+- Mengelola konten, performa, dan pemeliharaan website  
+- Berkolaborasi dengan tim untuk pengembangan berkelanjutan  
 
-Thank you for visiting my profile!  
-Feel free to explore my repositories, connect, or collaborate on projects. Let’s innovate and grow together!
+---
+
+## 📌 Proyek Unggulan
+- 🤖 **Smart Room Automation** — Ketua Tim  
+- 🤖 **Kipas Otomatis Berbasis Arduino**  
+- 🤖 **Sistem Parkir & Kolam Otomatis**  
+- 🌐 **Website Seputar Jambi**  
+- 🌐 **Website Organisasi & Personal**
+
+---
+
+## 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rofiffalah18&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiffalah18&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Kontak & Jejaring
+- 💼 LinkedIn: [linkedin.com/in/rofif-akhdan-falah](https://www.linkedin.com/in/rofif-akhdan-falah-095933323/)  
+- 🌐 GitHub: [github.com/rofiffalah18](https://github.com/rofiffalah18)  
+
+---
+
+⭐ *Terus belajar, bereksperimen, dan membangun solusi — satu robot dan satu website dalam satu waktu.*
