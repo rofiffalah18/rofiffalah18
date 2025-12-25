@@ -77,14 +77,6 @@ Saya terbiasa mengerjakan proses **perancangan, integrasi, dan pengujian sistem 
 
 ---
 
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rofiffalah18&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiffalah18&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
