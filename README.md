@@ -59,15 +59,6 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rofiffalah18&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiffalah18&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🏛️ Pengalaman & Organisasi
 - 🤖 **IPB Robotic Club** — *Robotics Electrical Systems Intern / Hardware Engineer*
 - 🌐 **Cerebro Historia** — *Founder & Lead Developer*
@@ -88,7 +79,9 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
 
 ## 📫 Kontak & Jejaring
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rofif%20Akhdan%20Falah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rofif-akhdan-falah-095933323/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-rofiffalah18-black?style=flat&logo=github)](https://github.com/rofiffalah18)
+
 [![Instagram](https://img.shields.io/badge/Instagram-@rofiffalah18-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rofiffalah18)
 
 ---
