@@ -4,79 +4,85 @@
 ![GitHub followers](https://img.shields.io/github/followers/rofiffalah18?label=Followers&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/rofiffalah18?label=Stars&style=flat)
 
-🎓 Mahasiswa Fisika — **Institut Pertanian Bogor (IPB University)**  
-🤖 Ketua Tim Riset Ground Robotik — **IPB Robotik Club**  
-🌐 Robotika | Embedded System | Web Development  
+🎓 **Physics Student — IPB University**  
+⚡ **IoT & Embedded Systems Engineer | Hardware Integration & Dashboard Developer**  
+🤖 **Robotics Electrical Systems Intern — IPB Robotic Club**  
 
 ---
 
 ## 🚀 Tentang Saya
-Saya memiliki ketertarikan dan pengalaman di bidang **robotika dan sistem kelistrikan**, khususnya pada pengembangan **robot darat berbasis mikrokontroler** untuk perlombaan seperti **Transporter, Maze Bot, Line Follower**, dan kategori robot otonom lainnya.
+Saya adalah mahasiswa Fisika IPB University dengan fokus keahlian di bidang **Embedded Systems, IoT Hardware Prototyping, dan Interactive Monitoring Dashboards**. Memiliki latar belakang kuat dalam perancangan sirkuit kelistrikan robot, integrasi sensor-aktuator, hingga visualisasi data *real-time*.
 
-Saya terbiasa mengerjakan proses **perancangan, integrasi, dan pengujian sistem robot**, mulai dari mekanik, elektrik, hingga pemrograman. Selain robotika, saya juga aktif dalam **pengembangan dan pengelolaan website**, dengan fokus pada desain yang responsif, fungsional, dan mudah digunakan.
+Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboard*, pemrograman mikrokontroler, analisis data sinyal fisika, hingga pengerjaan *front-end web dashboard* yang responsif.
 
 ---
 
 ## 🧠 Bidang Minat
-- Robot Darat Otonom  
-- Embedded System & IoT  
-- Sistem Kontrol  
-- Strategi dan Riset Robotika Kompetisi  
-- Web Development & UI/UX  
+- 📟 **IoT System Architecture & Real-Time Monitoring Dashboards**
+- 🤖 **Embedded Systems & Microcontroller Programming (ESP32 / Arduino)**
+- ⚡ **Electrical Wiring, Circuit Troubleshooting & Power Management**
+- 📊 **Signal Processing & Sensor Data Analytics**
+- 🌐 **Web Development (Front-End & REST API Integration)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Capabilities
 
-### 🤖 Robotika & Embedded System
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+### ⚡ Core Capabilities & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-- Sensor & Aktuator  
-- Motor Driver & Power Management  
-- Wiring Diagram & Troubleshooting  
+* **Hardware & Systems:** Sensor & Actuator Integration, Relay Switching, Power Management, Circuit Troubleshooting.
+* **Protocols & Communication:** Blynk, MQTT, HTTP REST API.
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🌐 Dashboards & Web Analytics
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-- Responsive Web Design  
-- Manajemen & Optimasi Website  
+* **Web Development:** Responsive Web Design, Front-End UI/UX, Web-based Hardware Interfaces.
+* **Data Processing:** Sensor Data Logging, Real-Time Charting & Analytics.
 
-### 🔧 Tools & Lainnya
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 🤖 Pengalaman Robotika
-- Memimpin riset dan pengembangan **robot darat** untuk berbagai kompetisi  
-- Menentukan konsep, arsitektur teknis, dan strategi robot  
-- Mengoordinasikan integrasi **mekanik, elektrik, dan pemrograman**  
-- Mengawasi proses pengujian, debugging, dan optimasi performa  
-- Mengelola pembagian tugas dan progres tim riset  
-
----
-
-## 🌐 Pengalaman Web Development
-- Mengembangkan website dari tahap perencanaan hingga implementasi  
-- Merancang desain **UI/UX** yang responsif dan user-friendly  
-- Mengelola konten, performa, dan pemeliharaan website  
-- Berkolaborasi dengan tim untuk pengembangan berkelanjutan  
+### 🔧 Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 📌 Proyek Unggulan
-- 🤖 **Smart Room Automation** — Ketua Tim  
-- 🤖 **Kipas Otomatis Berbasis Arduino**  
-- 🤖 **Sistem Parkir & Kolam Otomatis**  
-- 🌐 **Website Seputar Jambi**  
-- 🌐 **Website Organisasi & Personal**
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rofiffalah18&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiffalah18&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
+## 🏛️ Pengalaman & Organisasi
+- 🤖 **IPB Robotic Club** — *Robotics Electrical Systems Intern / Hardware Engineer*
+- 🌐 **Cerebro Historia** — *Founder & Lead Developer*
+- ⚡ **Studentday Electrical SMA** — *Active Member & Hardware Project Contributor*
+- 📐 **Math Club SMA** — *Active Member & Competition Representative*
+- 🤝 **IPB Mengajar** — *Volunteer Educator*
+
+---
+
+## 📌 Proyek Unggulan (Selected Projects)
+
+- 🤖 **Competitive Transporter & Autonomous Robot Electrical Systems** — Merancang arsitektur kelistrikan, integrasi hardware, dan *troubleshooting* sirkuit untuk robot kompetisi di IPB Robotic Club.
+- 🏠 **Smart Room Control System (KTI Project)** — Riset dan implementasi sistem otomatisasi ruangan berbasis mikrokontroler & switching relay.
+- 🌐 **Cerebro Historia Digital Platform** — Inisiator dan pengembang utama platform web edukasi sejarah berbasis *responsive front-end design*.
+- 📟 **Real-Time IoT Environmental Monitoring & Dashboards** — Pengembangan sistem akuisisi data sensor berbasis ESP32/Blynk dengan tampilan antarmuka terintegrasi.
 
 ---
 
@@ -85,7 +91,6 @@ Saya terbiasa mengerjakan proses **perancangan, integrasi, dan pengujian sistem 
 [![GitHub](https://img.shields.io/badge/GitHub-rofiffalah18-black?style=flat&logo=github)](https://github.com/rofiffalah18)
 [![Instagram](https://img.shields.io/badge/Instagram-@rofiffalah18-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rofiffalah18)
 
-
 ---
 
-⭐ *Terus belajar, bereksperimen, dan membangun solusi — satu robot dan satu website dalam satu waktu.*
+⭐ *Connecting physical electronics to digital interfaces — bridging physics, hardware, and web technologies.*
