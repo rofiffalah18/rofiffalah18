@@ -21,7 +21,7 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
 - 📟 **IoT System Architecture & Real-Time Monitoring Dashboards**
 - 🤖 **Embedded Systems & Microcontroller Programming (ESP32 / Arduino)**
 - ⚡ **Electrical Wiring, Circuit Troubleshooting & Power Management**
-- 📊 **Signal Processing & Sensor Data Analytics**
+- 📊 **Signal Processing & Cloud Data Analytics**
 - 🌐 **Web Development (Front-End & REST API Integration)**
 
 ---
@@ -39,16 +39,17 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
 * **Hardware & Systems:** Sensor & Actuator Integration, Relay Switching, Power Management, Circuit Troubleshooting.
 * **Protocols & Communication:** Blynk, MQTT, HTTP REST API.
 
-### 🌐 Dashboards & Web Analytics
+### 🌐 Dashboards, Web & Cloud Analytics
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 * **Web Development:** Responsive Web Design, Front-End UI/UX, Web-based Hardware Interfaces.
-* **Data Processing:** Sensor Data Logging, Real-Time Charting & Analytics.
+* **Data Processing & Analytics:** SQL, Google BigQuery, Sensor Data Logging, Real-Time Charting & Dashboards.
 
 ### 🔧 Tools & Workflow
 <p>
@@ -56,6 +57,20 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+---
+
+## 📜 Certifications & Credentials
+
+<p align="left">
+  <a href="https://www.credly.com/badges/824450a9-7ad9-4ea1-aa64-46be30b46416/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-Derive_Insights_from_BigQuery_Data-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud BigQuery Badge" />
+  </a>
+</p>
+
+- **Derive Insights from BigQuery Data** — *Google Cloud (Verified via Credly)*
+  - **Key Skills:** `Google BigQuery` • `SQL` • `Data Analytics` • `Looker Studio` • `Business Intelligence`
+  - **Focus:** Pemrosesan agregasi data berskala besar, pembuatan *query* SQL, dan visualisasi *dashboard analytical* berbasis cloud.
 
 ---
 
@@ -70,7 +85,8 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
 
 ## 📌 Proyek Unggulan (Selected Projects)
 
-- 🤖 **Competitive Transporter & Autonomous Robot Electrical Systems** — Merancang arsitektur kelistrikan, integrasi hardware, dan *troubleshooting* sirkuit untuk robot kompetisi di IPB Robotic Club.
+- 🦾 **Innovative Transporter & Autonomous Robot Electrical Systems** — Merancang arsitektur kelistrikan, integrasi hardware, dan *troubleshooting* sirkuit untuk robot kompetisi di IPB Robotic Club.
+- 🐠 **Intelligent Aquarium System** — Pengembangan sistem otomatisasi dan akuisisi data akuarium cerdas berbasis IoT.
 - 🏠 **Smart Room Control System (KTI Project)** — Riset dan implementasi sistem otomatisasi ruangan berbasis mikrokontroler & switching relay.
 - 🌐 **Cerebro Historia Digital Platform** — Inisiator dan pengembang utama platform web edukasi sejarah berbasis *responsive front-end design*.
 - 📟 **Real-Time IoT Environmental Monitoring & Dashboards** — Pengembangan sistem akuisisi data sensor berbasis ESP32/Blynk dengan tampilan antarmuka terintegrasi.
@@ -79,9 +95,7 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
 
 ## 📫 Kontak & Jejaring
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rofif%20Akhdan%20Falah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rofif-akhdan-falah-095933323/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-rofiffalah18-black?style=flat&logo=github)](https://github.com/rofiffalah18)
-
 [![Instagram](https://img.shields.io/badge/Instagram-@rofiffalah18-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rofiffalah18)
 
 ---
