@@ -66,11 +66,30 @@ Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboa
   <a href="https://www.credly.com/badges/824450a9-7ad9-4ea1-aa64-46be30b46416/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/Google_Cloud-Derive_Insights_from_BigQuery_Data-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud BigQuery Badge" />
   </a>
+  <a href="https://freecodecamp.org/certification/rofiffalah18/responsive-web-design" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />
+  </a>
 </p>
 
 - **Derive Insights from BigQuery Data** — *Google Cloud (Verified via Credly)*
   - **Key Skills:** `Google BigQuery` • `SQL` • `Data Analytics` • `Looker Studio` • `Business Intelligence`
   - **Focus:** Pemrosesan agregasi data berskala besar, pembuatan *query* SQL, dan visualisasi *dashboard analytical* berbasis cloud.
+
+- **Responsive Web Design** — *freeCodeCamp*
+  - **Key Skills:** `HTML5` • `CSS3` • `Responsive Web Design` • `UI/UX Basics`
+  - **Focus:** Membangun antarmuka web yang fleksibel, terstruktur, dan responsif untuk berbagai ukuran layar.
+
+- **ICT Competency Certificate** — *SMA Plus PGRI Cibinong*
+  - **Key Skills:** `Graphic Design` • `Video Editing` • `ICT Systems`
+  - **Focus:** Pembuatan aset visual, pengolahan media digital, dan kompetensi dasar teknologi informasi.
+
+- **English Proficiency & Communication Certificate** — *SMA Plus PGRI Cibinong*
+  - **Key Skills:** `English Grammar` • `Technical Communication` • `Writing`
+  - **Focus:** Pemahaman tata bahasa dan kemampuan komunikasi teknis dalam bahasa Inggris.
+
+- **Basic Intensive English Program** — *Language Center (LC) Pare*
+  - **Key Skills:** `English` • `Interpersonal Communication` • `Public Speaking`
+  - **Focus:** Pelatihan intensif komunikasi interpersonal dan kelancaran berbahasa Inggris.
 
 ---
 
