@@ -1,122 +1,60 @@
-# 👋 Halo, saya Rofif Akhdan Falah
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E6FE4&center=true&vCenter=true&width=650&lines=Halo!+Saya+Rofif+Akhdan+Falah;Mahasiswa+S1+Fisika+%40+IPB+University;Embedded+Systems+%26+IoT+Telemetry+Engineer;Mantan+Ketua+Riset+Robotika+Darat+%40+IRC" alt="Typing SVG" />
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rofiffalah18&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/rofiffalah18?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/rofiffalah18?label=Stars&style=flat)
-
-🎓 **Physics Student — IPB University**  
-⚡ **IoT & Embedded Systems Engineer | Hardware Integration & Dashboard Developer**  
-🤖 **Robotics Electrical Systems Intern — IPB Robotic Club**  
-
----
-
-## 🚀 Tentang Saya
-Saya adalah mahasiswa Fisika IPB University dengan fokus keahlian di bidang **Embedded Systems, IoT Hardware Prototyping, dan Interactive Monitoring Dashboards**. Memiliki latar belakang kuat dalam perancangan sirkuit kelistrikan robot, integrasi sensor-aktuator, hingga visualisasi data *real-time*.
-
-Terbiasa mengeksekusi proyek secara *end-to-end*—mulai dari skematik *breadboard*, pemrograman mikrokontroler, analisis data sinyal fisika, hingga pengerjaan *front-end web dashboard* yang responsif.
-
----
-
-## 🧠 Bidang Minat
-- 📟 **IoT System Architecture & Real-Time Monitoring Dashboards**
-- 🤖 **Embedded Systems & Microcontroller Programming (ESP32 / Arduino)**
-- ⚡ **Electrical Wiring, Circuit Troubleshooting & Power Management**
-- 📊 **Signal Processing & Cloud Data Analytics**
-- 🌐 **Web Development (Front-End & REST API Integration)**
-
----
-
-## 🛠️ Tech Stack & Capabilities
-
-### ⚡ Core Capabilities & Hardware
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<p align="center">
+  <b>Mahasiswa S1 Fisika IPB University</b> | Spesialisasi Instrumentasi Eksperimen, Sistem Tertanam (Embedded Systems), & Telemetri IoT Berbasis Web.
 </p>
 
-* **Hardware & Systems:** Sensor & Actuator Integration, Relay Switching, Power Management, Circuit Troubleshooting.
-* **Protocols & Communication:** Blynk, MQTT, HTTP REST API.
-
-### 🌐 Dashboards, Web & Cloud Analytics
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-* **Web Development:** Responsive Web Design, Front-End UI/UX, Web-based Hardware Interfaces.
-* **Data Processing & Analytics:** SQL, Google BigQuery, Sensor Data Logging, Real-Time Charting & Dashboards.
-
-### 🔧 Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+  <a href="https://linktr.ee/RofifAkhdanFalah">🌐 Linktree Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rofif-akhdan-falah-095933323/">💼 LinkedIn</a> •
+  <a href="mailto:rofifakhdan@apps.ipb.ac.id">✉️ Email</a>
 </p>
 
 ---
 
-## 📜 Certifications & Credentials
+### 🔬 Profil & Fokus Riset
+- 🎓 **Pendidikan:** S1 Fisika, IPB University (2024 – 2028 | IPK 3.24/4.00)
+- 🤖 **Pengalaman Robotika:** Mantan Ketua Riset Robotika Darat & Teknisi Sistem Elektrikal di **IPB Robotic Club (IRC)**
+- ⚡ **Keahlian Utama:** Perancangan Sirkuit Elektronika, Otomatisasi Akuisisi Data (DAQ), Mikrokontroler (ESP32/Arduino), Telemetri RS485 Modbus, & *Data Pipeline* Berbasis Web secara *Real-time*
 
-<p align="left">
-  <a href="https://www.credly.com/badges/824450a9-7ad9-4ea1-aa64-46be30b46416/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-Derive_Insights_from_BigQuery_Data-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud BigQuery Badge" />
-  </a>
-  <a href="https://freecodecamp.org/certification/rofiffalah18/responsive-web-design" target="_blank">
-    <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />
-  </a>
+---
+
+### 🚀 Proyek Unggulan (Featured Projects)
+
+- 🌊 **IoT Water Quality Monitoring System (2026):** Pengolahan sinyal sensor & telemetri pemantauan kualitas air *real-time* berbasis ESP32 & Modbus RTU RS485.
+- ⛰️ **Landslide Early Warning System (2026):** Sistem deteksi dini tanah longsor terintegrasi sensor MPU6050 & visualisasi Web 3D.
+- 🤖 **Transporter & Line Follower Robot (2025):** Rekayasa manajemen daya & sirkuit analog Op-Amp/Fotodioda serta sistem kontrol stik PS3.
+- 🐟 **Smart Pond & Parking System (2023):** Otomatisasi pakan kolam ikan & sistem parkir cerdas berbasis IoT.
+
+---
+
+### 🛠️ Hardware & Tech Stack
+
+**Embedded & Hardware:**  
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Modbus](https://img.shields.io/badge/RS485_Modbus-000000?style=for-the-badge&logo=microchip&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/Circuit_Design-41B883?style=for-the-badge&logo=altium-designer&logoColor=white)
+
+**IoT, Cloud & Software:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Statistik GitHub
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rofiflalah18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiflalah18&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
 
-- **Derive Insights from BigQuery Data** — *Google Cloud (Verified via Credly)*
-  - **Key Skills:** `Google BigQuery` • `SQL` • `Data Analytics` • `Looker Studio` • `Business Intelligence`
-  - **Focus:** Pemrosesan agregasi data berskala besar, pembuatan *query* SQL, dan visualisasi *dashboard analytical* berbasis cloud.
-
-- **Responsive Web Design** — *freeCodeCamp*
-  - **Key Skills:** `HTML5` • `CSS3` • `Responsive Web Design` • `UI/UX Basics`
-  - **Focus:** Membangun antarmuka web yang fleksibel, terstruktur, dan responsif untuk berbagai ukuran layar.
-
-- **ICT Competency Certificate** — *SMA Plus PGRI Cibinong*
-  - **Key Skills:** `Graphic Design` • `Video Editing` • `ICT Systems`
-  - **Focus:** Pembuatan aset visual, pengolahan media digital, dan kompetensi dasar teknologi informasi.
-
-- **English Proficiency & Communication Certificate** — *SMA Plus PGRI Cibinong*
-  - **Key Skills:** `English Grammar` • `Technical Communication` • `Writing`
-  - **Focus:** Pemahaman tata bahasa dan kemampuan komunikasi teknis dalam bahasa Inggris.
-
-- **Basic Intensive English Program** — *Language Center (LC) Pare*
-  - **Key Skills:** `English` • `Interpersonal Communication` • `Public Speaking`
-  - **Focus:** Pelatihan intensif komunikasi interpersonal dan kelancaran berbahasa Inggris.
-
----
-
-## 🏛️ Pengalaman & Organisasi
-- 🤖 **IPB Robotic Club** — *Robotics Electrical Systems Intern / Hardware Engineer*
-- 🌐 **Cerebro Historia** — *Founder & Lead Developer*
-- ⚡ **Studentday Electrical SMA** — *Active Member & Hardware Project Contributor*
-- 📐 **Math Club SMA** — *Active Member & Competition Representative*
-- 🤝 **IPB Mengajar** — *Volunteer Educator*
-
----
-
-## 📌 Proyek Unggulan (Selected Projects)
-
-- 🦾 **Innovative Transporter & Autonomous Robot Electrical Systems** — Merancang arsitektur kelistrikan, integrasi hardware, dan *troubleshooting* sirkuit untuk robot kompetisi di IPB Robotic Club.
-- 🐠 **Intelligent Aquarium System** — Pengembangan sistem otomatisasi dan akuisisi data akuarium cerdas berbasis IoT.
-- 🏠 **Smart Room Control System (KTI Project)** — Riset dan implementasi sistem otomatisasi ruangan berbasis mikrokontroler & switching relay.
-- 🌐 **Cerebro Historia Digital Platform** — Inisiator dan pengembang utama platform web edukasi sejarah berbasis *responsive front-end design*.
-- 📟 **Real-Time IoT Environmental Monitoring & Dashboards** — Pengembangan sistem akuisisi data sensor berbasis ESP32/Blynk dengan tampilan antarmuka terintegrasi.
-
----
-
-## 📫 Kontak & Jejaring
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rofif%20Akhdan%20Falah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rofif-akhdan-falah-095933323/)
-[![GitHub](https://img.shields.io/badge/GitHub-rofiffalah18-black?style=flat&logo=github)](https://github.com/rofiffalah18)
-[![Instagram](https://img.shields.io/badge/Instagram-@rofiffalah18-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rofiffalah18)
-
----
-
-⭐ *Connecting physical electronics to digital interfaces — bridging physics, hardware, and web technologies.*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rofiflalah18&theme=react-dark&hide_border=true" />
+</p>
