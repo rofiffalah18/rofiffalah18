@@ -51,10 +51,10 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rofiflalah18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiflalah18&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rofiflalah18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rofiflalah18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rofiflalah18&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofiflalah18&theme=tokyonight&hide_border=true" />
 </p>
