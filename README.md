@@ -6,10 +6,19 @@
   <b>Mahasiswa S1 Fisika IPB University</b> | Spesialisasi Instrumentasi Eksperimen, Sistem Tertanam (Embedded Systems), & Telemetri IoT Berbasis Web.
 </p>
 
+
+
+<!-- Tombol Badge Interaktif -->
 <p align="center">
-  <a href="https://linktr.ee/RofifAkhdanFalah">🌐 Linktree Portfolio</a> •
-  <a href="https://www.linkedin.com/in/rofif-akhdan-falah-095933323/">💼 LinkedIn</a> •
-  <a href="mailto:rofifakhdan@apps.ipb.ac.id">✉️ Email</a>
+  <a href="https://www.linkedin.com/in/rofif-akhdan-falah-095933323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/RofifAkhdanFalah">
+    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
+  </a>
+  <a href="mailto:rofifakhdan@apps.ipb.ac.id">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
